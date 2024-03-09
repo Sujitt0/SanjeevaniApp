@@ -1,4 +1,6 @@
 # design user and DB
+JAR file JAVA Project/
+# design user and DB
 src/sanjeevaniapp/designDB/
 # Compiled class file
 *.class
@@ -13,7 +15,7 @@ src/sanjeevaniapp/designDB/
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# *.jar
 *.war
 *.nar
 *.ear
